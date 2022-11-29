@@ -1,0 +1,23 @@
+{
+  "name": "aula_victor29.11.22",
+  "version": "1.0.0",
+  "description": "Repositório para aula de front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guilherme-Gustavo/Aula_Victor29.11.22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guilherme-Gustavo/Aula_Victor29.11.22/issues"
+  },
+  "homepage": "https://github.com/Guilherme-Gustavo/Aula_Victor29.11.22#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "Bodão",
+        "idade": 30,
+        "id": 1
+    },
+    {
+        "nome": "Uilha",
+        "idade": 35,
+        "id": 2
+    },
+    {
+        "nome": "Diego Maradona",
+        "idade": 19,
+        "id": 3
+    },
+    {
+        "nome": "Richarlisson",
+        "idade": 42,
+        "id": 4
+    },
+    {
+        "nome": "Casimiro",
+        "idade": 35,
+        "id": 5
+    }
+]
